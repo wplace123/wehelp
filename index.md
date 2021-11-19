@@ -1,41 +1,52 @@
+### 兩百字內的個人簡介
 
+有幾年後端軟工經驗，因為任職的公司是傳產又在南部
+能討論的對象不多，工作內容大部份也都偏向維護，
+所以所見所學也有限，前陣子在各方考量之下決定離職，
+想空出一段時間尋求軟體技能的突破，正好近期有開放第二屆的招生
+跟自己的需求也不謀而合，想藉此機會補足自己欠缺的部份，
+也想做出一些 side project，就算計畫結束也想繼續自己做 side project，
+也對說明會所說的順利畢業會進入到可以討論分享的社群非常期待
 
+### 為什麼想成為前端、後端、或全端工程師？
 
-## Welcome to GitHub Pages
+現階段想以後端為主，因為之前的經驗都是後端居多，所以主要還是著重在後端
 
-test ryan wang
-You can use the [editor on GitHub](https://github.com/wplace123/wehelp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 為了成為軟體工程師，曾經做過什麼努力？
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+自學程式弄出一個作品到順利求職。
+(為了看彭彭的會員影片，而跑去訂閱也算嗎XD)
 
-### Markdown
+### 如果參與這個計畫，會怎麼安排學習時間？
+目前條件可以全職投入這個計畫， 會根據每周任務
+去制定每日任務， 在執行任務時也會搭配番茄鐘去增加自己的執行率與專注力，
+也會定期檢視自己的規劃是否妥當
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
 
-```markdown
-Syntax highlighted code block
+會遇到一些陌生領域，在遇到陌生領域時要查什麼關鍵字反而是重要的
+，計畫中貌似有助教或同儕可以討論這到還好，就算沒有討論對象
+，網路上也有眾多社群也可以上去提問找出方向，節省摸索的時間
 
-# Header 1
-## Header 2
-### Header 3
+### 是否有想要加入的軟體公司？為什麼想加入該公司？
 
-- Bulleted
-- List
+目前沒有限定哪間軟體公司，會傾向有人數不少的軟體工程師
+，因為之前的公司軟體工程師人數為數不多
+，所以沒經歷什麼正規流程，或是較大規模的專案
+，有些經驗或專案規模不是靠自己就可以學習到的
+，所以會想先朝向這類型的公司
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wplace123/wehelp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 想要對我們說的事情？
+1.假設篩選的標準是能否有充分的時間參與這個計畫
+，以及清楚整個計畫的內容和完成這個計畫的決心 
+，我想我能達成上述的幾個條件。
+	
+2.看了幾年彭彭的頻道，去年得知要創辦訓練營
+，以及了解訓練的內容後又更欽佩彭彭所做的事
+，因為本身是南部人，更深知南北在資源上的巨大落差
+(不管是產業面的職缺量、同業的人數、是否有研習營等等..)
+，很多南部軟體新鮮人，因為缺乏好的環境最終結束自己的軟體職涯甚至沒開始
+，計畫方式大多數也是線上方式克服城鄉限制也非常的讚賞
+，計劃裡的任務方式，也非常符合就業需求，而不是一昧的手把手教學
+，就像老話常講是給釣竿不是給魚吃，價格面也是非常佛心
+，最後就算有沒有被選中，還是會繼續支持彭彭的理念 !
